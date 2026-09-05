@@ -18,23 +18,4 @@ This repository contains the methodological framework, data extraction records, 
 
 ### Authors
 Shimaa E. Fattouh, Abeer Ameen, Khadija Dandash  
-Faculty of Medicine, Suez Canal University, Egypt
-```[cite: 1]
-
-3. انزلي لأسفل واضغطي على الزر الأخضر **Commit changes**.
-
----
-
-**ثانياً: ماذا ترفعين وكيف؟**
-
-**ماذا ترفعين؟**
-* **ملف الإكسيل (Data Extraction):** جدول استخراج البيانات الخاص بالـ 15 دراسة من Rayyan (`.xlsx` أو `.csv`)[cite: 1].
-* **ملفات RevMan:** ملف المشروع بصيغة `.rm5` (إن وُجد) أو صور الـ Forest Plots المصدّرة بجودة واضحة (PNG/JPEG)[cite: 1].
-* **مخطط السريان (PRISMA Flowchart):** ملف الصورة الخاص بالفرز والمطابقة (Figure 1)[cite: 1].
-* **جدول تقييم الجودة (NOS Assessment):** ملف إكسيل أو وورد يحتوي على تفريغ تقييم جودة الدراسات (Newcastle-Ottawa Scale)[cite: 1].
-
-**كيف ترفعين الملفات؟**
-1. اضغطي على زر **Add file** (الموجود في المنتصف بجوار الزر الأخضر `<> Code`).
-2. اختاري من القائمة **Upload files**.
-3. اسحبي الملفات من جهازكِ وأفلتيها داخل المربع المخصص، أو اضغطي على `choose your files`.
-4. بعد اكتمال التحميل، انزلي لأسفل واضغطي على الزر الأخضر **Commit changes**.
+Faculty of Medicine, Suez Canal University, Egypt 
